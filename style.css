@@ -1,0 +1,105 @@
+body {
+    background: url('background.jpg');
+}
+
+#logo {}
+
+.h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.ym {
+
+    width: 200px;
+    height: 110px;
+    border: 2px solid whitesmoke;
+    margin: 8px;
+}
+
+.dt {
+    width: 184px;
+    height: 110px;
+    border: 2px solid whitesmoke;
+    margin: 8px;
+}
+
+.ktm {
+    width: 200px;
+    height: 110px;
+    border: 2px solid whitesmoke;
+    margin: 8px;
+}
+
+.aprilia {
+    width: 200px;
+    height: 110px;
+    border: 2px solid whitesmoke;
+    margin: 8px;
+}
+
+.honda {
+    width: 184px;
+    height: 110px;
+    border: 2px solid whitesmoke;
+    margin: 8px;
+}
+
+.kawasaki {
+    width: 184px;
+    height: 110px;
+    border: 2px solid whitesmoke;
+    margin: 8px;
+}
+
+.ymsection {
+    font-size: 30px;
+    color: rgb(0 39 255);
+    text-align: center;
+    background-color: black;
+}
+
+.r1m img {
+    display: inline-flex;
+    width: 33%;
+    height: 350px;
+    margin: -35px -2px;
+    padding: 3px 4px;
+}
+
+.r1m {
+    display: inline-flex;
+    color: whitesmoke;
+}
+
+.v4 img {
+    display: inline-flex;
+    width: 33%;
+    height: 350px;
+    margin: -35px -2px;
+    padding: 3px 4px;
+}
+
+.dusection {
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    background-color: black;
+}
+
+.ktmhead {
+    font-size: 30px;
+    color: orangered;
+    text-align: center;
+    background-color: black;
+}
+
+.superduke img {
+    display: inline-flex;
+    width: 33%;
+    height: 350px;
+    margin: -35px -2px;
+    padding: 3px 4px;
+}
